@@ -1,5 +1,3 @@
-# Python-Data-Analysis-Visualization-Projects
-
 # 📊 Python Data Analysis & Visualization Projects
 
 ## 📌 Project Overview
