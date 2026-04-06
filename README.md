@@ -12,7 +12,7 @@ This repository contains hands-on practice and mini-projects using Python librar
 * NumPy
 * Pandas
 * Matplotlib
-* Jupyter Notebook / VS Code
+* Jupyter Notebook / VS Code Studio
 
 ---
 
